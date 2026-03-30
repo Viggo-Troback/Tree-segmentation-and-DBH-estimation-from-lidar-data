@@ -1,6 +1,6 @@
 # Tree Segmentation and DBH Estimation from LiDAR Data
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Viggo-Troback/Tree-segmentation-and-DBH-estimation-from-lidar-data/blob/main/tree_segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Viggo-Troback/Tree-segmentation-and-DBH-estimation-from-lidar-data/blob/main/Light_segmentation_pipeline.ipynb)
 
 A lightweight Python pipeline for individual tree segmentation and trunk diameter estimation from LiDAR point clouds (.las/.laz), developed as a faster alternative to the industry-standard `lidR` package in R for use on low-powered hardware.
 
